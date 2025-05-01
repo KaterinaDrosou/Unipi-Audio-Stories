@@ -25,4 +25,4 @@
 ### 📌 How it Works:
 1. **Launch the App**: Users start on the main screen, where they can select a story through a Recycler View. 
 2. **Select & Listen**: To read and listen to a story the user must create an account (email & password). After completing user's registration, the user can choose a story. Upon choosing a story, the app displays the content and starts narration using TTS. An image is shown alongside.
-3.**Track Stats**: A separate screen allows users to track their story activity and favorite stories.
+3. **Track Stats**: A separate screen allows users to track their story activity and favorite stories.
